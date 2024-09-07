@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Abhinav Bhagwat
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Fundamentals in Computer Science Engineering 
 - 📫 How to reach me on instagram @abhinav_bhagwat_1708
 
 <!---
